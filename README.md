@@ -1,6 +1,3 @@
-<div align="center">
-   <img alt="stripe payment title" width="60" src="https://higheredlab.com/wp-content/uploads/strapi-stripe-logo-150x150.png">
-</div>
 <h1 align="center">Stripe Payments</h1>
 <p align="center">Online payments and subscriptions made simple, secure and fast.</p>
 <p align="center">This free plugin enables you to accept online payments and create subscriptions using Credit and Debit Cards, SEPA Direct Debit, ACH Direct Debit, AliPay, Apple pay and Google pay on your Strapi app via Stripe.</p>
@@ -9,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/strapi-stripe">
-<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/manishkatyan/strapi-stripe?label=npm&logo=npm">
+<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/bergx2/strapi-stripe?label=npm&logo=npm">
 </a>
 <a href="https://www.npmjs.org/package/strapi-stripe">
 <img src="https://img.shields.io/npm/dm/strapi-stripe.svg" alt="Monthly download on NPM" />
 </a>
-<a href="https://github.com/manishkatyan/strapi-stripe/actions/workflows/eslint.yml/badge.svg">
-<img src="https://github.com/manishkatyan/strapi-stripe/actions/workflows/eslint.yml/badge.svg" alt="EsLint" />
+<a href="https://github.com/bergx2/strapi-stripe/actions/workflows/eslint.yml/badge.svg">
+<img src="https://github.com/bergx2/strapi-stripe/actions/workflows/eslint.yml/badge.svg" alt="EsLint" />
 </a>
 </p>
 
@@ -82,7 +79,7 @@ We are following the [official Node.js releases timelines](https://nodejs.org/en
 
 - Strapi v4.x
 
-> The Stripe Payments plugin is designed for **Strapi v4.x**. It won't work with Strapi v3.x.
+> The Stripe Payments plugin is designed for **Strapi v4.x**. It won't work with Strapi v3.x or v5.x yet.
 
 <br/><br/>
 
@@ -226,4 +223,5 @@ You can easily embed the subscription status on your website, using plugin Api-E
 
 [MIT License](LICENSE.md)
 
+Copyright © 2024 [Bergx2 GmbH](https://www.bergx2.de/)
 Copyright © 2022 [HigherEdLab.com](https://higheredlab.com/)

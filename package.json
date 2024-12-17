@@ -1,6 +1,6 @@
 {
   "name": "strapi-stripe",
-  "version": "3.4.2",
+  "version": "4.0.0",
   "description": "Online payments and subscriptions made simple, secure and fast. This free plugin enables you to accept online payments and create subscriptions using Credit Card, Apple pay, Google pay, SEPA Direct Debit, ACH Direct Debit on your Strapi app via Stripe.",
   "strapi": {
     "name": "strapi-stripe",
@@ -56,24 +56,24 @@
     ]
   },
   "author": {
-    "name": "HigherEdLab.com",
-    "email": "support@higheredlab.com",
-    "url": "https://higheredlab.com/"
+    "name": "Bergx2 GmbH",
+    "email": "info@bergx2.de",
+    "url": "https://www.bergx2.de"
   },
-  "homepage": "https://github.com/manishkatyan/strapi-stripe#readme",
+  "homepage": "https://github.com/Bergx2/strapi-stripe#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/manishkatyan/strapi-stripe.git"
+    "url": "https://github.com/Bergx2/strapi-stripe.git"
   },
   "maintainers": [
     {
-      "name": "HigherEdLab.com",
-      "email": "support@higheredlab.com",
-      "url": "https://higheredlab.com/"
+      "name": "Bergx2 GmbH",
+      "email": "info@bergx2.de",
+      "url": "https://www.bergx2.de"
     }
   ],
   "engines": {
-    "node": ">=14.19.1 <=20.x.x",
+    "node": ">=14.19.1",
     "npm": ">=6.0.0"
   },
   "keywords": [
